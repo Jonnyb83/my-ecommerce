@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ecommerce-store/static/css/main.3e52c407.css",
-    "main.js": "/Ecommerce-store/static/js/main.29397a19.js",
-    "static/media/01.webp": "/Ecommerce-store/static/media/01.acdf8402de97e285f5f7.webp",
-    "static/media/huronbottle.webp": "/Ecommerce-store/static/media/huronbottle.c09d96cce7ce9d7ed319.webp",
-    "index.html": "/Ecommerce-store/index.html",
-    "main.3e52c407.css.map": "/Ecommerce-store/static/css/main.3e52c407.css.map",
-    "main.29397a19.js.map": "/Ecommerce-store/static/js/main.29397a19.js.map"
+    "main.css": "/static/css/main.97a9248e.css",
+    "main.js": "/static/js/main.3c447406.js",
+    "static/media/01.webp": "/static/media/01.acdf8402de97e285f5f7.webp",
+    "static/media/huronbottle.webp": "/static/media/huronbottle.c09d96cce7ce9d7ed319.webp",
+    "index.html": "/index.html",
+    "main.97a9248e.css.map": "/static/css/main.97a9248e.css.map",
+    "main.3c447406.js.map": "/static/js/main.3c447406.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e52c407.css",
-    "static/js/main.29397a19.js"
+    "static/css/main.97a9248e.css",
+    "static/js/main.3c447406.js"
   ]
 }
